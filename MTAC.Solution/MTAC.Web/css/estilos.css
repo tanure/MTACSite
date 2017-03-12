@@ -1,0 +1,197 @@
+﻿*, *:before, *:after {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    font-family: "Segoe UI", sans-serif;
+    overflow-y: scroll;
+    -webkit-text-size-adjust: none;
+    background: #F7F7F7;
+    color: #2B2B2B;
+    font-size: 15px;
+    letter-spacing: 0.2px;
+}
+
+h1, h2, h3, h4, p, th {
+    font-family: "Segoe UI", sans-serif;
+    font-weight: normal;
+    margin: 0;
+    padding: 0;
+}
+
+header
+{
+    height:65px;    
+}
+
+header span
+{
+    position: relative;
+    top: 10px;
+    left: 20px;
+    border-left: 1px #ccc solid;
+    padding-left: 20px;
+
+    opacity: 0.69;
+    font-size: 20px;
+    letter-spacing: 0.2px;
+    line-height: 30px;
+}
+
+header img
+{
+    max-height:60px;
+}
+
+section#menu
+{
+    background-color: #0076bc;
+    height:70px;
+    color:white;
+}
+
+section#menu ul
+{
+    list-style-type:none;
+}
+
+.jumbo {
+    max-width: 1366px;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    box-sizing: border-box;
+    min-height: 70px;
+    padding-left: 20px;
+    padding-top: 0;
+    color: white;
+}
+
+section#menu ul li
+{
+    display:inline;
+    text-align:center;
+}
+
+section#menu ul li a
+{
+    color:white;
+    line-height: 70px;
+    display: inline-block;
+    height: 70px;
+    padding-left: 3ex;
+    padding-right: 3ex;
+    letter-spacing: 0.3px;
+}
+
+section#menu ul li a:hover
+{
+    background-color: #0063B1;
+    color: white;
+    text-decoration: none;
+}
+
+#banners
+{
+    background-color: #0076bc;
+    
+}
+
+#banners h1
+{
+    color:white
+}
+
+#banners p {
+    opacity: 0.69;
+    font-size: 20px;
+    letter-spacing: 0.2px;
+    line-height: 30px;
+    color:white;
+}
+
+video {
+    border-radius: 12px 12px 0 0;
+    border: 6px solid #fff;
+    border-bottom: 1px solid #fff;
+    height: 537px;
+    width: 380px;
+    position:relative;
+    top:5px;
+}
+
+.sections h1
+{
+    font-size: 62px;
+    letter-spacing: 0.2px;
+    line-height: 70px;
+    padding-top: 64px;
+    margin-bottom:40px;
+}
+
+.sections p
+{    opacity: 0.69;
+    font-size: 20px;
+    letter-spacing: 0.2px;
+    line-height: 30px;
+}
+
+.sections h2
+{
+    font-size: 46px;
+    letter-spacing: 0.2px;
+    line-height: 58px;
+        margin-bottom: 32px;    
+}
+
+section#nossahistoria
+{
+    padding:60px 0px;
+}
+
+section#associados
+{
+    background-color:white;
+    padding:30px 0px;
+    min-height:250px
+}
+
+section#parceiros
+{
+    background-color:#FAFAFA;
+    padding:30px 0px;
+}
+
+section#parceiros ul
+{
+    list-style-type:none;
+    
+}
+
+section#parceiros ul li
+{
+    display:inline;
+    margin:10px 30px;
+}
+
+section#parceiros ul li img
+{
+    max-height:110px
+}
+
+section#rodape
+{
+    background-color:#333;
+    padding:30px 0px;
+    min-height:250px;
+    color:white;
+}
+
+section#rodape2
+{
+    background-color:black;
+    padding:30px 0px;
+    color:white;
+    font-size:12px
+}
