@@ -18,3 +18,37 @@ C:\DOUGLAS\2. Pessoal\4. MTAC\MTAC.Solution\MTAC.Web\bin\Microsoft.CodeDom.Provi
 C:\DOUGLAS\2. Pessoal\4. MTAC\MTAC.Solution\MTAC.Web\obj\Debug\MTAC.Web.csprojResolveAssemblyReference.cache
 C:\DOUGLAS\2. Pessoal\4. MTAC\MTAC.Solution\MTAC.Web\obj\Debug\MTAC.Web.dll
 C:\DOUGLAS\2. Pessoal\4. MTAC\MTAC.Solution\MTAC.Web\obj\Debug\MTAC.Web.pdb
+C:\Projetos\MTAC\Site\MTAC.Solution\MTAC.Web\bin\roslyn\csc.exe
+C:\Projetos\MTAC\Site\MTAC.Solution\MTAC.Web\bin\roslyn\csc.exe.config
+C:\Projetos\MTAC\Site\MTAC.Solution\MTAC.Web\bin\roslyn\csc.rsp
+C:\Projetos\MTAC\Site\MTAC.Solution\MTAC.Web\bin\roslyn\csi.exe
+C:\Projetos\MTAC\Site\MTAC.Solution\MTAC.Web\bin\roslyn\csi.rsp
+C:\Projetos\MTAC\Site\MTAC.Solution\MTAC.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Projetos\MTAC\Site\MTAC.Solution\MTAC.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Projetos\MTAC\Site\MTAC.Solution\MTAC.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Projetos\MTAC\Site\MTAC.Solution\MTAC.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Projetos\MTAC\Site\MTAC.Solution\MTAC.Web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Projetos\MTAC\Site\MTAC.Solution\MTAC.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Projetos\MTAC\Site\MTAC.Solution\MTAC.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Projetos\MTAC\Site\MTAC.Solution\MTAC.Web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Projetos\MTAC\Site\MTAC.Solution\MTAC.Web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Projetos\MTAC\Site\MTAC.Solution\MTAC.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Projetos\MTAC\Site\MTAC.Solution\MTAC.Web\bin\roslyn\System.AppContext.dll
+C:\Projetos\MTAC\Site\MTAC.Solution\MTAC.Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Projetos\MTAC\Site\MTAC.Solution\MTAC.Web\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Projetos\MTAC\Site\MTAC.Solution\MTAC.Web\bin\roslyn\System.IO.FileSystem.dll
+C:\Projetos\MTAC\Site\MTAC.Solution\MTAC.Web\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Projetos\MTAC\Site\MTAC.Solution\MTAC.Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Projetos\MTAC\Site\MTAC.Solution\MTAC.Web\bin\roslyn\vbc.exe
+C:\Projetos\MTAC\Site\MTAC.Solution\MTAC.Web\bin\roslyn\vbc.exe.config
+C:\Projetos\MTAC\Site\MTAC.Solution\MTAC.Web\bin\roslyn\vbc.rsp
+C:\Projetos\MTAC\Site\MTAC.Solution\MTAC.Web\bin\roslyn\VBCSCompiler.exe
+C:\Projetos\MTAC\Site\MTAC.Solution\MTAC.Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Projetos\MTAC\Site\MTAC.Solution\MTAC.Web\bin\MTAC.Web.dll.config
+C:\Projetos\MTAC\Site\MTAC.Solution\MTAC.Web\bin\MTAC.Web.dll
+C:\Projetos\MTAC\Site\MTAC.Solution\MTAC.Web\bin\MTAC.Web.pdb
+C:\Projetos\MTAC\Site\MTAC.Solution\MTAC.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Projetos\MTAC\Site\MTAC.Solution\MTAC.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Projetos\MTAC\Site\MTAC.Solution\MTAC.Web\obj\Debug\MTAC.Web.csprojResolveAssemblyReference.cache
+C:\Projetos\MTAC\Site\MTAC.Solution\MTAC.Web\obj\Debug\MTAC.Web.dll
+C:\Projetos\MTAC\Site\MTAC.Solution\MTAC.Web\obj\Debug\MTAC.Web.pdb
